@@ -18,7 +18,7 @@ var i = 0;
 
 // write two funtions that iterates through each element in plantArr and adds it to html
 // when click go to the next image which starts in array
-function backwards() {
+function forwards() {
  // if array reaches 0 start at array end
  i--
  if(i < 0){
@@ -28,7 +28,7 @@ function backwards() {
   img.src = evoLine[i]
 }
 
-function forwards() {
+function backwards() {
   i++
  // if the array reaches the end, start the array over
  if(i === evoLine.length){
@@ -38,12 +38,12 @@ function forwards() {
   img.src = evoLine[i]
 }
 //addeventlistener for keys being pressed
-document.onkeydown = zebra //onkeydown is the universal term used for keyboards 
+document.onkeydown = zebra //onkeydown is the universal term used for keyboards
 function zebra(e){ // zebra is calling on two prior functions
   if(e.keyCode===39){
-    forwards()
+    backwards()
   }
   if(e.keyCode===37){
-    backwards()
+    forwards()
   }
 }

@@ -1,22 +1,30 @@
-# 🎠 Week05 Bootcamp2018c Project: Carousel
+# Reign of Fire
+This project is meant to cycle through arrays using images and keypad directionals.
 
-### Goal: Build a Simple Image Carousel
+**Link to project:** https://amazing-benz-93ef58.netlify.com/
 
-### How to submit your code for review:
+![alt tag](Carousel.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML, CSS, & JavaScript
+
+This was one of my favorite projects because I got to show off the beautiful evolution line of my favorite pokemon. Clicking the "Evolve" button evolves the current stage of charmander into the next and the "Devolve" button devolves the current stage back one step. This was a perfect way to display how arrays work and how they can be cycled through.
+
+## Optimizations
+*(optional)*
+
+I added the button directionals to this project which turned out to be way more comfortable and clean-cut for this project.
+
+## Lessons Learned:
+
+I learned how to throw directionals on about anything with this project and also how to edge case.
+
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**To-Do List:** https://github.com/alecortega/palettable
+
+**Teacher Attendance List:** https://github.com/alecortega/twitter-battle
+
+**Slot Machine:** https://github.com/alecortega/patch-panel
