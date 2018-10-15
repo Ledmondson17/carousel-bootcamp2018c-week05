@@ -12,7 +12,6 @@ This project is meant to cycle through arrays using images and keypad directiona
 This was one of my favorite projects because I got to show off the beautiful evolution line of my favorite pokemon. Clicking the "Evolve" button evolves the current stage of charmander into the next and the "Devolve" button devolves the current stage back one step. This was a perfect way to display how arrays work and how they can be cycled through.
 
 ## Optimizations
-*(optional)*
 
 I added the button directionals to this project which turned out to be way more comfortable and clean-cut for this project.
 
